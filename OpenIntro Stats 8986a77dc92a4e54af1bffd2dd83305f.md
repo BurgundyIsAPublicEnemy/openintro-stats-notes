@@ -1,0 +1,17 @@
+# OpenIntro Stats
+
+[Inference with Categorical Types](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Inference%20with%20Categorical%20Types%20e79f80254dd04d32898ea5ba8e29723c.md)
+
+[Multiple Regression](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Multiple%20Regression%20df92d2397dd04b5aa93cd305c4ebba9d.md)
+
+[Linear Regression](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Linear%20Regression%20ac6672c1b4874b0e95aa550b05f946b6.md)
+
+[Inference for Numerical Data](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Inference%20for%20Numerical%20Data%203b1d8b1456e04023bc1028fa44411e8a.md)
+
+[Inference](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Inference%20843f55e511e7489fbeb4e3fb97423859.md)
+
+[Distributions](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Distributions%20b746249b81c948d88a9f2146d6eb896f.md)
+
+[Probability Theory](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Probability%20Theory%20b8ea50e148eb4491b3fc37738a2efd22.md)
+
+[Statistic Basics](OpenIntro%20Stats%208986a77dc92a4e54af1bffd2dd83305f/Statistic%20Basics%206ffac73af81e49bb9438d87b443b6ee8.md)
